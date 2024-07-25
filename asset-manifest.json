@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shadala/static/css/main.6ed3a3c7.css",
+    "main.js": "/shadala/static/js/main.bcb616af.js",
+    "static/media/service5.jpg": "/shadala/static/media/service5.790f5c8dd85c677be33c.jpg",
+    "static/media/service1.jpg": "/shadala/static/media/service1.5e8cc0b97bddeab9290c.jpg",
+    "static/media/service2.jpg": "/shadala/static/media/service2.9a9746ef6bfad939b587.jpg",
+    "static/media/service6.jpg": "/shadala/static/media/service6.7e4777deab79ce0721a9.jpg",
+    "static/media/service3.jpg": "/shadala/static/media/service3.99a83d2eea82383a2bd1.jpg",
+    "static/media/image1.png": "/shadala/static/media/image1.1b69e0e386dbbe7ef20a.png",
+    "static/media/image2.png": "/shadala/static/media/image2.97a8697fa62f79e48efb.png",
+    "static/media/image3.png": "/shadala/static/media/image3.142474cd3604bdaec623.png",
+    "static/media/service4.jpg": "/shadala/static/media/service4.beb96f1284ef984ad6eb.jpg",
+    "index.html": "/shadala/index.html",
+    "main.6ed3a3c7.css.map": "/shadala/static/css/main.6ed3a3c7.css.map",
+    "main.bcb616af.js.map": "/shadala/static/js/main.bcb616af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed3a3c7.css",
+    "static/js/main.bcb616af.js"
+  ]
+}
