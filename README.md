@@ -26,13 +26,13 @@ Shadala is a user-friendly and comprehensive web application designed to simplif
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
-  <img src="screenshots/home.png" width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/customer_booking.png" width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/driver_dashboard.png"  width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/driver_intransit.png"  width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/admin_dashboard.png"  width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/admin_booking.png"  width="300" style="margin: 0 10px;"/>
-  <img src="screenshots/admin_reports.png"  width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/home.png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/customer_booking.png" height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/driver_dashboard.png"  height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/driver_intransit.png"  height="300" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_dashboard.png"  height="150" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_booking.png"  height="150" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_reports.png"  height="150" style="margin: 0 10px;"/>
 </div>
 
 ## Team
