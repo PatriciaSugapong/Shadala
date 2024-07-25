@@ -25,7 +25,15 @@ Shadala is a user-friendly and comprehensive web application designed to simplif
 
 ## Screenshots
 
-## Demonstration
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/home.png" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/customer_booking.png" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/driver_dashboard.png"  width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/driver_intransit.png"  width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_dashboard.png"  width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_booking.png"  width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_reports.png"  width="300" style="margin: 0 10px;"/>
+</div>
 
 ## Team
 
@@ -33,5 +41,5 @@ This project was developed by:
 
 - [Patricia Anne E. Sugapong](https://github.com/PatriciaSugapong)
 - [Hyacinth Ashley G. Radovan](https://github.com/HyacinthAshleyRadovan)
-- Marie Bernadette M. Gerali
+- [Marie Bernadette M. Gerali](https://github.com/MarieGerali)
 - Stefano Franco A. Medina
