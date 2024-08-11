@@ -42,4 +42,4 @@ This project was developed by:
 - [Patricia Anne E. Sugapong](https://github.com/PatriciaSugapong)
 - [Hyacinth Ashley G. Radovan](https://github.com/HyacinthAshleyRadovan)
 - [Marie Bernadette M. Gerali](https://github.com/MarieGerali)
-- Stefano Franco A. Medina
+- [Stefano Franco A. Medina](https://github.com/stefanomedina17)
